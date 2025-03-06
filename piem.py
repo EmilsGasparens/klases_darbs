@@ -1,3 +1,4 @@
+# ir veiktas izmaias
 valstis=["Igaunija","Latvija","Lietuva","polija"]
 
 for i in valstis:
