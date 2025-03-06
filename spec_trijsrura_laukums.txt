@@ -1,0 +1,22 @@
+problēma:
+izveidot vienkārsu lietotaj programu, kas apreiķina trīstūra laukumu, izmantojot pamatnes un aukstuma vertības
+
+ievades dati:
+S=a⋅ha/2
+pamata garums(pozitīvs decimals vai vesals skaitlis)
+aukstuma garums(pozitīvs decimals vai vesals skaitlis)
+izvades dati:
+trīstūra apreiķinšnas formula
+
+funkcjonalitate:
+nolasīt ievadīto trīstūta  pamata gatumu un aukstuma garums
+parbaudīt ievadītos datus vai tie ir pozitīvi  skaitlļi ja nē tad ievadīt atkārtoti
+apreiīķināt laukumu, izmantojot formulu laukums=() pamata garums* aukstuma garums)/2
+parsdīt rezūltatu (apreiķinot laukumu)
+
+īstenosana:
+
+
+izmantojot  atbilstošas funkcija/metodes ievadei, datu verifikācija un apreikināsanu
+#-parādīt lietotāja ievades un izvades norādijumus
+#-apskatīt iespējamās kļūdqas(0piemēram necipari iev

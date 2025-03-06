@@ -1,0 +1,14 @@
+Speciikācija t-krekla pasūtijums
+problēma: cik izmaksās apdruka T-krekla pasūtīšana un piegāde, ņemot vēra ka cena ir 
+atlarīga no apdrukas veida un kreklu skaita bet piegāde ir atkarīga no pasūtijuma summas 
+
+Funkcjonalitate: 
+1)funkcija (pasūti_kreklus) ir trīs parametri:skaits .apdruka. piegāde
+2)parametrs skaits ir vesals, paramets apdruka ir simbolu virkne(str), parametrs piegāde ir būla tipa mainīgie
+ (boolean(True, False))
+3)parametram apdruka var būt trIs vertības: FOTO,Teksts, Zīme, cena attiecīgi 20EUR, 5EUR, 10EUR
+4)Ja piegade ir True, ja pasūtijuma summa ir 30eur un vairāl, tad par piegade ir par brīvu, ja mazāk par 
+ 30eur tad par piegadi jamaksā 5eur .
+5)Ja pasūtijuma summa ir 50 un vairāk, tad atlaide ir  5%.
+
+
